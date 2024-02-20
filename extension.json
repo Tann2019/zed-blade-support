@@ -4,6 +4,6 @@
   "authors": [
     "Tanner Steorts <tanner.steorts@gmail.com>"
   ],
-  "description": "Adds syntax highlighting for the Blade templating language in Zed.",
+  "description": "Adds syntax highlighting for the Blade templating language",
   "repository": "https://github.com/Tann2019/zed-blade-support.git"
 }
